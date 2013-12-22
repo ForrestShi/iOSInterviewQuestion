@@ -22,6 +22,7 @@
 		1861110F1865497F000057E3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 186110EE1865497F000057E3 /* UIKit.framework */; };
 		186111171865497F000057E3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 186111151865497F000057E3 /* InfoPlist.strings */; };
 		186111191865497F000057E3 /* iOSInterviewQuestionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 186111181865497F000057E3 /* iOSInterviewQuestionTests.m */; };
+		1861112318654A4B000057E3 /* README in Resources */ = {isa = PBXBuildFile; fileRef = 1861112218654A4B000057E3 /* README */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		186111141865497F000057E3 /* iOSInterviewQuestionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iOSInterviewQuestionTests-Info.plist"; sourceTree = "<group>"; };
 		186111161865497F000057E3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		186111181865497F000057E3 /* iOSInterviewQuestionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOSInterviewQuestionTests.m; sourceTree = "<group>"; };
+		1861112218654A4B000057E3 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 		186110DE1865497E000057E3 = {
 			isa = PBXGroup;
 			children = (
+				1861112218654A4B000057E3 /* README */,
 				186110F01865497F000057E3 /* iOSInterviewQuestion */,
 				186111121865497F000057E3 /* iOSInterviewQuestionTests */,
 				186110E91865497F000057E3 /* Frameworks */,
@@ -233,6 +236,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1861112318654A4B000057E3 /* README in Resources */,
 				186111061865497F000057E3 /* Images.xcassets in Resources */,
 				186110F51865497F000057E3 /* InfoPlist.strings in Resources */,
 				186110FE1865497F000057E3 /* Main.storyboard in Resources */,
